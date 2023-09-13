@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/science-hw-mrs-rollet/static/css/main.a7148138.css",
-    "main.js": "/science-hw-mrs-rollet/static/js/main.5ebf37c5.js",
+    "main.js": "/science-hw-mrs-rollet/static/js/main.a08404f1.js",
     "index.html": "/science-hw-mrs-rollet/index.html",
     "main.a7148138.css.map": "/science-hw-mrs-rollet/static/css/main.a7148138.css.map",
-    "main.5ebf37c5.js.map": "/science-hw-mrs-rollet/static/js/main.5ebf37c5.js.map"
+    "main.a08404f1.js.map": "/science-hw-mrs-rollet/static/js/main.a08404f1.js.map"
   },
   "entrypoints": [
     "static/css/main.a7148138.css",
-    "static/js/main.5ebf37c5.js"
+    "static/js/main.a08404f1.js"
   ]
 }
